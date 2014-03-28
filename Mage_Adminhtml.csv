@@ -99,7 +99,7 @@
 "Always (during development)","總是（在開發中）"
 "Amounts","金額"
 "An error has occured while syncronizing media storages.","同步多媒體檔案時發生錯誤"
-"An error occurred while clearing the JavaScript/CSS cache.","清除javascript/css快取時發生錯誤"
+"An error occurred while clearing the JavaScript/CSS cache.","清除JavaScript/CSS快取時發生錯誤"
 "An error occurred while clearing the image cache.","清除圖片快取時發生錯誤"
 "An error occurred while deleting URL Rewrite.","刪除替代網址時發生錯誤"
 "An error occurred while deleting email template data. Please review log and try again.","刪除信件樣板資料時發生錯誤,請查看記錄檔案並再次嘗試"
