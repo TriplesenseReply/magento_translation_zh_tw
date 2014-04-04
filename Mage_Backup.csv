@@ -4,6 +4,7 @@
 "Are you sure you want to delete the selected backup(s)?","您確定要刪除選擇的備份？"
 "Backup Type","備份類型"
 "Backup file ""%s"" cannot be read from or written to.","備份檔案 ""%s"" 無法讀出或寫入"
+
 "Backup file ""%s"" does not exist.","備份檔案""%s""不存在"
 "Backup file does not exist.","備份檔案不存在"
 "Backup file handler was unspecified.","未指定備份檔案句柄"
