@@ -96,7 +96,7 @@
 "Send Check to:","發送支票給："
 "Severe 3D Secure Card Validation","提供 Severe 3D 信用卡安全驗證"
 "Severe validation removes chargeback liability on merchant.","Severe 3D 信用卡安全驗證可以解除商家退款責任"
-"Shipping Amount","運費"
+"Shipping Amount","配送數量"
 "Short description of the recurring payment. By default equals to the product name.","週期性付款的簡介，預設使用產品名稱"
 "Sort Order","排序"
 "Start Date","開始日期"
