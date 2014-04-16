@@ -67,7 +67,7 @@
 "Economy select","經濟選擇"
 "Empty response","空回复"
 "Enable Negotiated Rates","Enable Negotiated Rates"
-"Enabled for Checkout","為付款啟用"
+"Enabled for Checkout","付款時啟用"
 "Enables/Disables SSL verification of Magento server by UPS.","啟用/停用的SSL驗證Magento伺服器的UPS"
 "Error #%s : %s","錯誤編號%s：%s"
 "Error #%s : %s (%s)","錯誤號%s : %s (%s)"
