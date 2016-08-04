@@ -1,5 +1,5 @@
 {
-  "name": "snowdogapps/magento_tanslation_pl_pl",
+  "name": "snowild/magento_translation_zh_tw",
   "type": "magento-module",
-  "description": "Polish translation files for Magento CE"
+  "description": "Taiwanese translation files for Magento CE"
 }
